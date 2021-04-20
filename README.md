@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @belindayu
+- 👀 I’m interested in front-end development and am actively seeking junior front end developer roles.
+- 🌱 I’m currently learning about front end libraries like React on freeCodeCamp, my favorite platform.
+- 📫 Ping me at belinday@ucsc.edu
