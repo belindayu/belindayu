@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @belindayu
-- 👀 I’m interested in front-end development and am actively seeking junior front end developer roles.
+- 👋 Hi, I’m @belindayu, recent graduate from UC Santa Cruz.
+- 👀 I’m actively seeking junior front end developer roles.
 - 🌱 I’m currently learning about front end libraries on freeCodeCamp.
 - 📫 Ping me at belinday@ucsc.edu
