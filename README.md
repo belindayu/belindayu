@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @belindayu, recent graduate from UC Santa Cruz.
-- 👀 I’m actively seeking junior front end developer roles.
-- 🌱 I’m currently learning about front end libraries on freeCodeCamp.
+- 👋 Hi, I’m @belindayu, recent graduate from University of California, Santa Cruz - Baskin School of Engineering.
+- 👀 Actively seeking Front-end Developer positions.
+- 🌱 Developing my skills on freeCodeCamp.
 - 📫 Ping me at belinday@ucsc.edu
