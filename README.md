@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @belindayu, recent graduate from University of California, Santa Cruz - Baskin School of Engineering.
-- 👀 Actively seeking Front-end Developer positions.
-- 🌱 Developing my skills on freeCodeCamp.
+- 👀 Seeking Front-end Developer positions.
 - 📫 Ping me at belinday@ucsc.edu
